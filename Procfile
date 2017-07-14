@@ -1,1 +1,1 @@
-web: gunicorn hoypinta.wsgi --log-file -
+web: gunicorn simplerest.wsgi --log-file -
