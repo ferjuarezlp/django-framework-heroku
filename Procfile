@@ -1,1 +1,1 @@
-web: gunicorn hoypido.wsgi --log-file -
+web: gunicorn hoypinta.wsgi --log-file -
